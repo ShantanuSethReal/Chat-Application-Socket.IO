@@ -139,3 +139,10 @@ body {
   margin: 20px 0;
   color: #7e7e7e;
 }
+.new-user-intro{
+  border: 2px solid black;
+  margin: 0px 50px;
+  background-color: antiquewhite;
+  display: flex;
+  justify-content: center;
+}
